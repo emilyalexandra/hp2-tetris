@@ -1,0 +1,13 @@
+{
+	"name": "hp2-tetris",
+	"authors": [
+		"Emily"
+	],
+	"dependencies": {
+		"derelict-sdl2": "~>2.1.4",
+		"derelict-gl3": "~>1.0.24"
+	},
+	"sourceFiles-release": [
+		"win32.def"
+	]
+}
